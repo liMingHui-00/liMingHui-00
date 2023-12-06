@@ -57,9 +57,9 @@ Here are some ideas to get you started:
 <p><strong>&emsp;&emsp;We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
 
 </td></tr>
-
+ <!--
 <tr>
   <td> ![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=liMingHui-00) https://github-readme-stats.vercel.app/api?username=liMingHui-00 </td>
-</tr>
+</tr>  -->
 </table>
 
