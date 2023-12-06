@@ -42,13 +42,13 @@ Here are some ideas to get you started:
 
 </div>
 
-#  🙋 Hello
+#  🙋‍♂️ Hello
 
 <table>
   
 <tr><td>
 
-### 🤺 About Me
+### 👨‍💻 About Me
 
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/astronaut.png" />
 <p>&emsp;&emsp;大家好，我是小李同学。</p>
