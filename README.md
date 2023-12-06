@@ -4,7 +4,7 @@
   
   <!-- dynamic typing effect 动态打字效果 -->
   <div>
-     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22小李同学%2C%20祝您今天愉快%22);小李同学祝您今天愉快!&center=true&size=27" />
+     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=735&lines=console.log(%22小李同学%2C%20祝您今天愉快%22);小李同学祝您今天愉快!&center=true&size=27" />
   </div>
 
   <!-- knock code pictures 敲代码的图片 
