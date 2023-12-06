@@ -29,16 +29,16 @@
 </div>
 
 
-<table width="100%">
+<table align="center">
   
 <tr><td>
 
 ### 👨‍💻 About Me
 
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/astronaut.png" />
-<p>&emsp;&emsp;大家好，我是小李同学。</p>
-<p>&emsp;&emsp;热爱编程，做饭，读书，旅行。</p>
-<p>&emsp;&emsp;热爱计算机科学和IT互联网事业，励志成为一名优秀的开发者。</p>
+
+
+<p>&emsp;&emsp;大家好，我是小李同学。热爱编程，做饭，读书，旅行。励志成为一名优秀的开发者。</p>
 
 </td></tr>
  <!--
