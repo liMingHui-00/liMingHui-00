@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 </div>
 
 
-<table align="center">
+<table width="100%">
   
 <tr><td>
 
